@@ -1,0 +1,10 @@
+* protobuf
+
+Common Lisp implementation of Google's protocol buffers
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/brown/protobuf.git   |
+| commit  | 82201dc  |
+| systems | protobuf |
+|---------+-------------------------------------------|
+
